@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for the "Plan Your Heist" project:
-
 # Plan Your Heist
 
 "Plan Your Heist" is a console application that allows users to plan and simulate a heist by assembling a team of skilled members and evaluating their chances of success. With this project, you can explore different team compositions, skill levels, and luck values to determine the feasibility of your heist plans.
