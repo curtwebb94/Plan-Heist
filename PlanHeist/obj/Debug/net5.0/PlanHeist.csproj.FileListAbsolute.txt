@@ -1,0 +1,16 @@
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\bin\Debug\net5.0\PlanHeist.exe
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\bin\Debug\net5.0\PlanHeist.deps.json
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\bin\Debug\net5.0\PlanHeist.runtimeconfig.json
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\bin\Debug\net5.0\PlanHeist.runtimeconfig.dev.json
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\bin\Debug\net5.0\PlanHeist.dll
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\bin\Debug\net5.0\ref\PlanHeist.dll
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\bin\Debug\net5.0\PlanHeist.pdb
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.csproj.AssemblyReference.cache
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.AssemblyInfoInputs.cache
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.AssemblyInfo.cs
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.csproj.CoreCompileInputs.cache
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.dll
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\ref\PlanHeist.dll
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.pdb
+C:\Users\curtw\workspace\csharp\exercises\PlanHeist\PlanHeist\obj\Debug\net5.0\PlanHeist.genruntimeconfig.cache
