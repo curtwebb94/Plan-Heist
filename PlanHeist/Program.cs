@@ -59,19 +59,22 @@ namespace PlanHeist
 
                 // Sum the skill levels of the team. Save that number.
                 int totalSkillLevel = 0;
+                // Sum the courage factor of the team. Save that number.
+                double totalCourageFactor = 0;
                 // Create a random number between -10 and 10 for the heist's luck value.
                 Random random = new Random();
-                int heistLuckValue = random.Next(-10, 11);
+                int luck = random.Next(-10, 11);
 
-                // Combine Total Skill level of Team and Bank Difficulty Level
-                int luckAndDifficulty = heistLuckValue += bankDifficultyLevel;
+                // Combine Total Skill level of luck and Bank Difficulty Level
+                int luckAndDifficulty = luck += bankDifficultyLevel;
 
-                Console.WriteLine($"The Luck and Difficulty Number is: {luckAndDifficulty}");
+                Console.WriteLine($"Your Heist Score is: {luckAndDifficulty}!");
                 Console.WriteLine(" ");
 
                 foreach (var teamMember in teamMembers)
                 {
                     totalSkillLevel += teamMember.SkillLevel;
+                    totalCourageFactor += teamMember.CourageFactor;
                 }
 
                 if (totalSkillLevel >= bankDifficultyLevel)
